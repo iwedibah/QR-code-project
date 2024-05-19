@@ -293,11 +293,12 @@ table {
 }
 .whatsapp .img{
     width: 100%;
-    height: 200px;
-    margin: 10px 25px 150px 0;
+    margin: 10px 0px 30px 0;
 } 
 img{
     border-radius: 10px;
+    width: 100%;
+    height: 300px;
 }
 .whatsapp h1{
     text-align: center;
@@ -321,7 +322,7 @@ img{
 }
 .whatsapp a{
     border: 1px solid #01644f;
-    padding: 10px 25px;
+    padding: 20px 35px;
     background-color: #01644f;
     text-decoration: none;
     color: rgb(193, 222, 248);
@@ -355,8 +356,7 @@ img{
 }
 .snapchat .img{
     width: 100%;
-    height: 200px;
-    margin: 10px 25px 150px 0;
+    margin: 10px 0px 30px 0;
 }
 .snapchat h1{
     text-align: center;
@@ -380,7 +380,7 @@ img{
 }
 .snapchat a{
     border: 1px solid #bebe02;
-    padding: 10px 25px;
+    padding: 20px 35px;
     background-color: #bebe02;
     text-decoration: none;
     color: #131313;
@@ -414,8 +414,7 @@ img{
 }
 .instagram .img{
     width: 100%;
-    height: 200px;
-    margin: 10px 25px 150px 0;
+    margin: 10px 0px 30px 0;
 }
 .instagram h1{
     text-align: center;
@@ -439,7 +438,7 @@ img{
 }
 .instagram a{
     border: 1px solid #775001;
-    padding: 10px 25px;
+    padding: 20px 35px;
     background-color: #775001;
     text-decoration: none;
     color: #f8f8f8;
